@@ -5,9 +5,9 @@ body {
 hr {
     border-style: dotted none none;
     border-color: grey;
-    border-width: 5px;
+    border-width: 9px;
     background-color: powderblue;
-    width: 10%;
+    width: 6%;
 }
 
 h1, h3 {
