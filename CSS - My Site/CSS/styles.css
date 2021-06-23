@@ -29,20 +29,26 @@ a {
 .skill-row {
     width: 50%;
     margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.html-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.hp-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
 
 .top-container {
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
-}
-
-.middle-container {
-    
-}
-
-.bottom-container {
-    
 }
 
 .top-cloud {
