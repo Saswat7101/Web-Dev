@@ -26,6 +26,11 @@ a {
     color: #11999E;
 }
 
+.skill-row {
+    width: 50%;
+    margin: 0 auto;
+}
+
 .top-container {
     background-color: #E4F9F5;
     position: relative;
