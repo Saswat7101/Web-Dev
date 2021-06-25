@@ -25,15 +25,23 @@ h3 {
     color: #11999E;
 }
 
+p {
+    line-height: 2;
+}
+
 a {
     color: #11999E;
+}
+
+hr {
+    border: #EAF6F6;
 }
 
 .skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
-    line-height: 2;
+    
 }
 
 .html-image {
@@ -64,13 +72,17 @@ a {
 
 .top-cloud {
     position: absolute;
-    top: 50px;
+    top: 40px;
     right: 400px;
 }
 
 .bottom-cloud {
     position: absolute;
     bottom: 300px;
-    left: 400px;
+    left: 250px;
 }
 
+.intro {
+    width: 30%;
+    margin: auto;
+}
