@@ -2,6 +2,8 @@ body {
     margin: 0 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-weight: bold;
 }
 
 h1 {
@@ -15,6 +17,7 @@ h2 {
     font-family: 'Roboto Slab', serif;
     font-size: 2.5rem;
     color: #66BFBF;
+    padding-bottom: 10px;
 }
 
 h3 {
@@ -49,6 +52,14 @@ a {
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+}
+
+.middle-container {
+    padding: 100px 0;
+}
+
+.bottom-container {
+
 }
 
 .top-cloud {
