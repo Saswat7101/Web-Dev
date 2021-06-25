@@ -30,19 +30,27 @@ p {
 }
 
 a {
-    color: #11999E;
+    color: #106f72;
+    font-family: 'Roboto Slab', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+
 }
 
 hr {
-    border: dotted #EAF6F6 6px;
+    border: dotted #033131 6px;
     border-bottom: none;
     width: 5%;
-    margin: 100px auto;
+    margin: 70px auto;
 }
 
 .skill-row {
     width: 50%;
-    margin: 100px auto;
+    margin: 70px auto;
     text-align: left;
     
 }
@@ -66,11 +74,12 @@ hr {
 }
 
 .middle-container {
-    padding: 100px 0;
+    padding: 100px 0 70px;
 }
 
 .bottom-container {
-
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
 }
 
 .contact-message {
@@ -95,6 +104,12 @@ hr {
     margin: auto;
 }
 
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
 .btn {
     background: #11CDD4;
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
@@ -105,7 +120,7 @@ hr {
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    font-family: Arial;
+    font-family: 'Roboto Slab', serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
